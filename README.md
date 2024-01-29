@@ -19,7 +19,7 @@
 </p>
 
 ## My social networks
-<a href="https://instagram.com/mahdi-Niyati">
+<a href="https://instagram.com/mahdi_Niyati">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 

@@ -1,7 +1,7 @@
-<img align="rigth" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <h2 align="left">Hi 😁👋! My name is Mahdi Niyati and I'm a Frontend Developer, from Iran.</h2>
 
+<img align="rigth" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 ## 💻 Tech Stack:

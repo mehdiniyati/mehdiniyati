@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 💻 &nbsp;About Me
 <!-- BLOGPOSTS:START -->
-I am a Front-End developer from Iran.
+- 💻 I am a Front-End developer from Iran.
 - 🌱 I’m currently learning more about Frontend App Architecture.
 <!-- BLOGPOSTS:END -->
 ----------------------------------------------

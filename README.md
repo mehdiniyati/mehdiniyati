@@ -20,7 +20,7 @@ I am a Front-End developer from Iran.
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badg;logo=windows&amp;logoColor=blue)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ----------------------------------------------
 

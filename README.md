@@ -1,6 +1,4 @@
-<h1 align="center">
-  Mahdi Niyati
-</h1>
+<h2 align="left">Hi 😁👋! My name is Mahdi Niyati and I'm a Frontend Developer, from Iran.</h2>
 
 ## 💻 Tech Stack:
 

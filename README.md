@@ -2,7 +2,7 @@
   Mahdi Niyati
 </h1>
 
-## My expertise
+##💻 Tech Stack:
 
 <p>
 

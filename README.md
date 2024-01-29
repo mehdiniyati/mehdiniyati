@@ -14,7 +14,7 @@ I am a Front-End developer from Iran.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333.svg?&logo=tailwind-css&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  ![Vite](https://img.shields.io/badge/vite-333333.svg?&logo=vite&logoColor=white)
-	![Figma](https://img.shields.io/badge/figma-333333.svg?&logo=figma&logoColor=white)
+	![Figma](https://img.shields.io/badge/figma-333333.svg?&logo=figma&logoColor=orange)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

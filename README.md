@@ -2,7 +2,7 @@
   Mahdi Niyati
 </h1>
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p>
 

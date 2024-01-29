@@ -2,6 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;I'm+Mahdi+Niyati;Nice+to+see+you!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=ae82cf&size=30">
 </h1>
 
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ###  About Me 
 
 I am a Front-End developer from Iran.
@@ -10,9 +13,6 @@ I am a Front-End developer from Iran.
 
 
 </br>
-
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 ## 💻 Tech Stack:

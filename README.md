@@ -1,5 +1,13 @@
 
-<h2 align="left">Hi 😁👋! My name is Mahdi Niyati and I'm a Frontend Developer, from Iran.</h2>
+###  About Me 
+
+I am a Front-End developer from Iran.
+
+- 🌱 I’m currently learning more about Frontend App Architecture.
+
+
+</br>
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
